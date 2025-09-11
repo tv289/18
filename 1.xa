@@ -7532,8 +7532,9 @@ https://hakim45.serv00.net/smarttv.php?id=go_spotv2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="BADMINTON",Astro Badminton1
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="BADMINTON",AstroB adminton2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="BADMINTON",Astro Badminton2
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+
 #EXTINF:-1  group-title="BADMINTON" group-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg" tvg-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg",Astro Arena 1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 #EXTINF:-1  group-title="BADMINTON" group-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg" tvg-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg",Astro Arena 2
@@ -7569,6 +7570,12 @@ https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 
 #EXTINF:-1  group-title="BADMINTON" group-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg" tvg-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg", Astro Badminton 2
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+
+#EXTINF:-1  group-title="BADMINTON" group-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg" tvg-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg", Astro Arena 1
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+
+#EXTINF:-1  group-title="BADMINTON" group-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg" tvg-logo="https://raw.githubusercontent.com/tv289/20/refs/heads/18/unnamed%20(1).jpg", Astro Arena 2
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxSEcXLBbVpClZ0f2nQFpDgYDJMtiRgSBGE3pSaZYQRfTvKf-2XR1Z7Dg6Q&s" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
